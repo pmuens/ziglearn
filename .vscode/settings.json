@@ -1,0 +1,8 @@
+{
+  "zig.buildOnSave": true,
+  "zig.zigPath": "/Users/philipp/Desktop/zig.nosync/zig",
+  "zigLanguageClient.path": "/Users/philipp/Desktop/zls.nosync/zls",
+  "[zig]": {
+    "editor.defaultFormatter": "tiehuis.zig"
+  }
+}
